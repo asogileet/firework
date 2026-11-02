@@ -1,0 +1,9 @@
+{
+  "name": "Celestial Pyro - 3D 高空煙火模擬器",
+  "description": "3D 高空煙火模擬器，支援星空、關渡大橋、自訂相片背景與 AR 實景模式、超高空萬丈發射、自訂色彩造型、多視角切換、音樂節奏同步與 60FPS 錄影導出。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
